@@ -1,2 +1,3 @@
 # Control-Engineering-in-python
 This repository will try to give some basic information about classical controllers and also modern state controllers. We will motivate system modelling using differential equations 
+Before developing deeper understanding of systems and implementing them on actual hardware components such as a microcontroller system, we will simulate and annimate them using python, models will be developed using simple pygame library to draw basic shapes. All the concepts will be developed gradually, for instance we can draw the cart before animating it or adding the mathematical model to it and later we can add the controller to it.
